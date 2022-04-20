@@ -1,0 +1,691 @@
+.width-10807700-5969 {
+  width: 100%;
+}
+
+.height-15600004-1390 {
+  height: 100%;
+}
+
+.display-70581250-1760 {
+  display: flex;
+}
+
+.justify-content-00680084-6025 {
+  justify-content: center;
+}
+
+.align-items-13133080-8152 {
+  align-items: center;
+}
+
+.background-repeat-16002833-5809 {
+  background-repeat: no-repeat;
+}
+
+.flex-direction-90050600-1705 {
+  flex-direction: column;
+}
+
+.background-image-10094665-7932 {
+  background-image: url(bg.svg);
+}
+
+.background-color-10322050-1600 {
+  background-color: #fff;
+}
+
+.background-size-10725050-4450 {
+  background-size: cover;
+}
+
+.width-10300206-9649 {
+  width: 300px;
+}
+
+.margin-14701059-8950 {
+  margin: 0;
+}
+
+.padding-64599040-1888 {
+  padding: 0;
+}
+
+.font-family-90400020-0714 {
+  font-family: Akshar,sans-serif;
+}
+
+.font-size-01444070-1003 {
+  font-size: 5rem;
+}
+
+.color-00010753-1000 {
+  color: #009688;
+}
+
+.font-family-10660342-9003 {
+  font-family: Open Sans,sans-serif;
+}
+
+.color-90064057-1700 {
+  color: #423b69;
+}
+
+.text-decoration-60070073-1070 {
+  text-decoration: none;
+}
+
+.color-10000000-1320 {
+  color: #fff;
+}
+
+.width-00276100-1300 {
+  width: 200px;
+}
+
+.height-10919602-1000 {
+  height: 50px;
+}
+
+.border-radius-68008411-1011 {
+  border-radius: 50px;
+}
+
+.background-color-13760000-0003 {
+  background-color: #009688;
+}
+
+.cursor-10500304-1300 {
+  cursor: pointer;
+}
+
+.height-42700603-6397 {
+  height: -webkit-fit-content;
+  height: -moz-fit-content;
+  height: fit-content;
+}
+
+.background-33105069-4300 {
+  background: #f7f1fd;
+}
+
+.padding-10900210-1005 {
+  padding: 20px 0;
+}
+
+.margin-top-18688842-1407 {
+  margin-top: 40px;
+}
+
+.width-10600980-0066 {
+  width: 90%;
+}
+
+.border-radius-10000600-1070 {
+  border-radius: 10px;
+}
+
+.box-shadow-13049504-1814 {
+  box-shadow: 0 0 20px rgba(0,0,0,.1);
+}
+
+.flex-wrap-10001700-1630 {
+  flex-wrap: wrap;
+}
+
+.background-99809480-5000 {
+  background: #fff;
+}
+
+.gap-10022459-2114 {
+  gap: 20px;
+}
+
+.position-98506006-1276 {
+  position: relative;
+}
+
+.content-08900700-1319:before {
+  content: "Introducing";
+}
+
+.display-14008210-5081:before {
+  display: flex;
+}
+
+.justify-content-40057940-1870:before {
+  justify-content: center;
+}
+
+.align-items-10389894-1060:before {
+  align-items: center;
+}
+
+.font-family-80980366-1409:before {
+  font-family: sans-serif;
+}
+
+.font-weight-18094102-2007:before {
+  font-weight: 700;
+}
+
+.font-size-17430600-3960:before {
+  font-size: 1.5rem;
+}
+
+.position-98506006-1276:before {
+  position: absolute;
+}
+
+.width-10600980-0066:before {
+  width: 300px;
+}
+
+.height-10488006-7400:before {
+  height: 50px;
+}
+
+.background-99809480-5000:before {
+  background: #009688;
+}
+
+.left-10803002-2000:before {
+  left: -20px;
+}
+
+.top-18042087-1096:before {
+  top: -25px;
+}
+
+.z-index-10000000-1060:before {
+  z-index: 2;
+}
+
+.border-radius-10000600-1070:before {
+  border-radius: 10px 5px 5px 0;
+}
+
+.content-08900700-1319:after {
+  content: "";
+}
+
+.position-98506006-1276:after {
+  position: absolute;
+}
+
+.width-10600980-0066:after {
+  width: 20px;
+}
+
+.height-10488006-7400:after {
+  height: 20px;
+}
+
+.background-99809480-5000:after {
+  background: #006c61;
+}
+
+.left-10803002-2000:after {
+  left: -20px;
+}
+
+.top-18042087-1096:after {
+  top: 15px;
+}
+
+.border-radius-10000600-1070:after {
+  border-radius: 0 0 0 10px;
+}
+
+.z-index-10000000-1060:after {
+  z-index: 1;
+}
+
+.width-22605040-7769 {
+  width: 31.25%;
+}
+
+.height-10038209-0300 {
+  height: 250px;
+}
+
+.background-09147004-9507 {
+  background: #130b44;
+}
+
+.justify-content-11001400-1344 {
+  justify-content: flex-start;
+}
+
+.content-47606004-2104:before {
+  content: "";
+}
+
+.position-30870048-1440:before {
+  position: absolute;
+}
+
+.width-22605040-7769:before {
+  width: 5px;
+}
+
+.height-10038209-0300:before {
+  height: 90%;
+}
+
+.background-09147004-9507:before {
+  background: #423b69;
+}
+
+.left-30160306-1008:before {
+  left: 7px;
+}
+
+.top-95780900-1005:before {
+  top: 0;
+}
+
+.bottom-20356008-8606:before {
+  bottom: 0;
+}
+
+.margin-30732923-1850:before {
+  margin: auto;
+}
+
+.border-radius-82890920-1004:before {
+  border-radius: 5px;
+}
+
+.margin-top-60020750-3000 {
+  margin-top: 30px;
+}
+
+.padding-10090066-1048 {
+  padding: 0 20px;
+}
+
+.font-family-10095000-1700 {
+  font-family: sans-serif;
+}
+
+.text-align-08117429-1801 {
+  text-align: center;
+}
+
+.font-weight-00203086-1029 {
+  font-weight: 700;
+}
+
+.font-size-28055302-7640 {
+  font-size: 1.5rem;
+}
+
+.font-weight-18000171-7050 {
+  font-weight: 300;
+}
+
+.font-size-10091000-1572 {
+  font-size: 1rem;
+}
+
+.color-20500183-1409 {
+  color: hsla(0,0%,100%,.75);
+}
+
+.content-12020700-4409:before {
+  content: "";
+}
+
+.position-11039050-9750:before {
+  position: absolute;
+}
+
+.width-53000700-2000:before {
+  width: 5px;
+}
+
+.height-10641176-6001:before {
+  height: 90%;
+}
+
+.background-03060000-1008:before {
+  background: #423b69;
+}
+
+.left-90010051-6200:before {
+  left: 7px;
+}
+
+.top-10109007-1080:before {
+  top: 0;
+}
+
+.bottom-10400260-1600:before {
+  bottom: 0;
+}
+
+.margin-14540190-1910:before {
+  margin: auto;
+}
+
+.border-radius-16604380-7000:before {
+  border-radius: 5px;
+}
+
+.content-74908049-6903:before {
+  content: "";
+}
+
+.position-95009090-5021:before {
+  position: absolute;
+}
+
+.width-16002570-8000:before {
+  width: 5px;
+}
+
+.height-00962101-5400:before {
+  height: 90%;
+}
+
+.background-50107868-1003:before {
+  background: #423b69;
+}
+
+.left-46404990-4601:before {
+  left: 7px;
+}
+
+.top-43600765-1970:before {
+  top: 0;
+}
+
+.bottom-20209086-1406:before {
+  bottom: 0;
+}
+
+.margin-77005700-9007:before {
+  margin: auto;
+}
+
+.border-radius-91790009-7750:before {
+  border-radius: 5px;
+}
+
+.width-10740405-7026 {
+  width: 80%;
+}
+
+.font-family-19565500-4030 {
+  font-family: Roboto,sans-serif;
+}
+
+.margin-49029887-4050 {
+  margin: 50px 0;
+}
+
+.display-73219480-0348 {
+  display: none;
+}
+
+.padding-20030082-1300 {
+  padding: 40px 0;
+}
+
+.margin-top-77200608-2300 {
+  margin-top: 50px;
+}
+
+.width-10403906-3640 {
+  width: 45%;
+}
+
+.height-50070223-1076 {
+  height: 400px;
+}
+
+.content-62804514-8900:before {
+  content: ".html";
+}
+
+.display-80050307-1300:before {
+  display: flex;
+}
+
+.justify-content-06020006-7900:before {
+  justify-content: center;
+}
+
+.align-items-18870300-2601:before {
+  align-items: center;
+}
+
+.font-family-10002030-1060:before {
+  font-family: sans-serif;
+}
+
+.font-weight-90094608-3234:before {
+  font-weight: 700;
+}
+
+.font-size-10020394-1940:before {
+  font-size: 1rem;
+}
+
+.position-85070201-1442:before {
+  position: absolute;
+}
+
+.width-10403906-3640:before {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+}
+
+.padding-60580968-1020:before {
+  padding: 0 20px;
+}
+
+.height-50070223-1076:before {
+  height: 30px;
+}
+
+.background-17937729-1805:before {
+  background: #fff;
+}
+
+.border-19406134-2410:before {
+  border: 1px solid rgba(0,0,0,.25);
+}
+
+.border-bottom-31002400-5000:before {
+  border-bottom: 0 solid #fff;
+}
+
+.left-70400100-1710:before {
+  left: 0;
+}
+
+.top-80000700-0443:before {
+  top: -30px;
+}
+
+.z-index-16730754-2904:before {
+  z-index: 2;
+}
+
+.border-radius-98300014-1000:before {
+  border-radius: 5px 5px 0 0;
+}
+
+.padding-10597001-4900 {
+  padding: 20px;
+}
+
+.height-50622500-1627 {
+  height: 80%;
+}
+
+.border-19406134-2410:before:before {
+  border: 1px solid rgba(0,0,0,.25);
+}
+
+.margin-bottom-02930673-9104 {
+  margin-bottom: 100px;
+}
+
+.padding-bottom-10000000-1074 {
+  padding-bottom: 50px;
+}
+
+.font-family-10600100-4080 {
+  font-family: Open sans,sans-serif;
+}
+
+.width-18009020-0060 {
+  width: 100px;
+}
+
+.height-24187902-1100 {
+  height: 100px;
+}
+
+.border-radius-70006500-9042 {
+  border-radius: 100%;
+}
+
+.border-19406134-2410:before:before:before,
+.border-19406134-2410:before:before:before:before,
+.border-19406134-2410:before:before:before:before:before,
+.border-19406134-2410:before:before:before:before:before:before {
+  border: 1px solid rgba(0,0,0,.25);
+}
+
+@media screen and (min-width:0px) and (max-width:640px) {
+  .width-00600046-6090 {
+    width: 250px;
+  }
+
+  .text-align-12000670-1000 {
+    text-align: center;
+  }
+
+  .margin-top-40900500-1442 {
+    margin-top: 20px;
+  }
+
+  .width-00276100-1300 {
+    width: 250px;
+  }
+
+  .height-10919602-1000 {
+    height: 80px;
+  }
+
+  .font-size-20000372-1001 {
+    font-size: 1.5rem;
+  }
+
+  .padding-top-23000820-5605 {
+    padding-top: 50px;
+  }
+
+  .width-22605040-7769 {
+    width: 90%;
+  }
+
+  .height-10038209-0300 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-60020750-3000 {
+    margin-top: 0;
+  }
+
+  .width-53000700-2000 {
+    width: 90%;
+  }
+
+  .height-10641176-6001 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-11000070-5007 {
+    margin-top: 0;
+  }
+
+  .width-16002570-8000 {
+    width: 90%;
+  }
+
+  .height-00962101-5400 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-10034000-9020 {
+    margin-top: 0;
+  }
+
+  .width-10403906-3640,
+  .width-60000007-1086 {
+    width: 100%;
+  }
+
+  .height-15260710-6547 {
+    height: 200px;
+  }
+}
+
+@media screen and (min-width:641px) and (max-width:1007px) {
+  .padding-top-23000820-5605 {
+    padding-top: 40px;
+  }
+
+  .width-22605040-7769 {
+    width: 90%;
+  }
+
+  .height-10038209-0300 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-60020750-3000 {
+    margin-top: 0;
+  }
+
+  .width-53000700-2000 {
+    width: 90%;
+  }
+
+  .height-10641176-6001 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-11000070-5007 {
+    margin-top: 0;
+  }
+
+  .width-16002570-8000 {
+    width: 90%;
+  }
+
+  .height-00962101-5400 {
+    height: -webkit-fit-content;
+    height: -moz-fit-content;
+    height: fit-content;
+  }
+
+  .margin-top-10034000-9020 {
+    margin-top: 0;
+  }
+}

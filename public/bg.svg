@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svgjs="http://svgjs.com/svgjs" width="1440" height="560" preserveAspectRatio="none" viewBox="0 0 1440 560">
+    <g mask="url(&quot;#SvgjsMask1169&quot;)" fill="none">
+        <g transform="translate(0, 0)" stroke-linecap="round" stroke="url(#SvgjsLinearGradient1170)">
+            <path d="M300 243.45 L300 316.55" stroke-width="45"></path>
+            <path d="M360 279.68 L360 280.32" stroke-width="45"></path>
+            <path d="M420 144 L420 189" stroke-width="45"></path>
+            <path d="M420 256.5 L420 416" stroke-width="45"></path>
+            <path d="M480 166.07 L480 256.07" stroke-width="45"></path>
+            <path d="M480 323.57 L480 393.93" stroke-width="45"></path>
+            <path d="M540 183.08 L540 228.08" stroke-width="45"></path>
+            <path d="M540 295.58000000000004 L540 376.92" stroke-width="45"></path>
+            <path d="M600 197.25 L600 362.75" stroke-width="45"></path>
+            <path d="M660 153.67 L660 243.67" stroke-width="45"></path>
+            <path d="M660 311.16999999999996 L660 406.33" stroke-width="45"></path>
+            <path d="M720 275.19 L720 284.81" stroke-width="45"></path>
+            <path d="M780 252.69 L780 307.31" stroke-width="45"></path>
+            <path d="M840 194.19 L840 365.81" stroke-width="45"></path>
+            <path d="M900 207.89 L900 352.11" stroke-width="45"></path>
+            <path d="M960 239.51 L960 320.49" stroke-width="45"></path>
+            <path d="M1020 134.62 L1020 179.62" stroke-width="45"></path>
+            <path d="M1020 247.12 L1020 292.12" stroke-width="45"></path>
+            <path d="M1020 359.62 L1020 425.38" stroke-width="45"></path>
+            <path d="M1080 265.33000000000004 L1080 294.67" stroke-width="45"></path>
+            <path d="M1140 220.69 L1140 339.31" stroke-width="45"></path>
+        </g>
+    </g>
+    <defs>
+        <mask id="SvgjsMask1169">
+            <rect width="1440" height="560" fill="#ffffff"></rect>
+        </mask>
+        <linearGradient x1="390.02112" y1="610.01584" x2="1049.97888" y2="-50.01584" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1170">
+            <stop stop-color="RGBA(58,124,195,0.35)" offset="0"></stop>
+            <stop stop-color="rgba(0, 150, 136, 0.25)" offset="1"></stop>
+        </linearGradient>
+    </defs>
+</svg>
